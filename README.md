@@ -20,3 +20,4 @@ This was done in R utilizing flexdashboard for the interacive element. The data 
     Response: Response to treatment, indicating whether the cancer responded positively, negatively, or remained stable after treatment.
     Recurred: Indicates whether the cancer has recurred after initial treatment.
 
+The full report can be found here [main.md](main.md)
